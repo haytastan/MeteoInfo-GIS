@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <MeteoInfo File="config.xml" Type="configurefile">
-  <Path OpenPath="D:\Temp\nc\2021_daily_4_VOD"/>
+  <Path OpenPath="/Users/hayatitastan/IdeaProjects/MeteoInfo-GIS/auxdata/colormaps"/>
   <Font>
     <TextFont FontName="YaHei Consolas Hybrid" FontSize="14"/>
-    <LegendFont FontName="宋体" FontSize="12"/>
+    <LegendFont FontName="Dialog" FontSize="12"/>
   </Font>
   <ScriptLanguage Language="Jython"/>
   <LookFeel LafDecorated="true" Name="FlatLightLaf"/>
   <Figure DoubleBuffering="true"/>
-  <Startup MainFormLocation="-7,-7" MainFormSize="1293,685" ShowMeteoDataDlg="true"/>
+  <Startup MainFormLocation="26,44" MainFormSize="1293,685" ShowMeteoDataDlg="false"/>
 </MeteoInfo>

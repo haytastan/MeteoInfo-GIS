@@ -31,7 +31,7 @@
         </dependency>
         <dependency>
             <groupId>org.ejml</groupId>
-            <artifactId>ejml-experimental</artifactId>
+            <artifactId>ejml-core</artifactId>
             <version>${ejml.version}</version>
         </dependency>
         <dependency>

@@ -8,8 +8,10 @@
   <File>
     <OpenedFiles>
       <OpenedFile File=""/>
+      <OpenedFile File=""/>
     </OpenedFiles>
     <RecentFiles>
+      <RecentFile File=""/>
       <RecentFile File=""/>
     </RecentFiles>
   </File>
@@ -18,5 +20,5 @@
   </Font>
   <LookFeel DockWindowDecorated="true" LafDecorated="true" Name="FlatDarkLaf"/>
   <Figure DoubleBuffering="true"/>
-  <Startup MainFormLocation="0,23" MainFormSize="1360,741"/>
+  <Startup MainFormLocation="0,23" MainFormSize="1360,684"/>
 </MeteoInfo>
